@@ -1,0 +1,16 @@
+body {
+    
+    background-image: url("WhatsApp-Image-2024-02-12-at-15.36.42_e447e908.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+}
+.hyper{
+  grid-template-columns: repeat(3, 1fr); gap: 20px; padding: 30px;
+  background-position: right;
+}
+.carousel slide carousel-fade{
+  width: 300px;
+}
+
